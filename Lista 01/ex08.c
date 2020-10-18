@@ -24,7 +24,8 @@ fim
 
 #include <stdio.h>
 
-int main(void) {
+int main(void) 
+{
   float num1, num2, num3;
   scanf("%f", &num1);
   scanf("%f", &num2);

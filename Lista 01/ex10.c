@@ -43,7 +43,8 @@ fim
 #include <stdio.h>
 #include <string.h>
 
-int main(void) {
+int main(void) 
+{
 	int idade, anoNascimento;
 	
   	printf ("Insira o ano de nascimento do nadador: ");

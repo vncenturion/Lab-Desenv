@@ -2,7 +2,7 @@
 4.	Ler uma temperatura em graus Fahrenheit e apresentá-la convertida em graus Celsius. A fórmula de conversão é: C = (F-32)*(5.0/9).
 
 solucao em:
-https://repl.it/@ViniciusB1/LDA-L1-ex04#main.c
+https://repl.it/@ViniciusB1/LDA-AT1-ex04#main.c
 */
 
 /*

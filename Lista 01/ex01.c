@@ -2,7 +2,7 @@
 1.	Ler um número (inteiro? real?) e exibir a frase: “o número digitado foi: ” e logo após esta frase apresentar o valor do número lido.
 
 solucao em:
-https://repl.it/@ViniciusB1/LDA-L1-ex01#main.c
+https://repl.it/@ViniciusB1/LDA-AT1-ex01#main.c
 */
 
 /*

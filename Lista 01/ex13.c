@@ -2,7 +2,7 @@
 13.	Exiba todos os números entre 32 e 126. Exiba um número por linha, mas em cada linha mostre o número em três formatos: inteiro (%d), hexadecimal (%x), e caractere (%c). Utilize a estrutura de repetição for na resolução do problema. Compare o resultado com a tabela ascii abaixo.
 
 solucao em:
-https://repl.it/@ViniciusB1/LDA-L1-ex13#main.c
+https://repl.it/@ViniciusB1/LDA-AT1-ex13#main.c
 */
 
 /*

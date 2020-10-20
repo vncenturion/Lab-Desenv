@@ -4,7 +4,7 @@ a) faça utilizando if/else.
 b) faça utilizando switch/case.
 
 solucao em:
-https://repl.it/@ViniciusB1/LDA-L1-ex11b#main.c
+https://repl.it/@ViniciusB1/LDA-AT1-ex11b#main.c
 */
 
 /*

@@ -5,7 +5,7 @@ b) caractere a caractere em ordem crescente dos índices (do começo para o fim)
 c) caractere a caractere em ordem decrescente dos índices (do fim para o começo).
 
 solucao em:
-https://repl.it/@ViniciusB1/LDA-L1-ex20#main.c
+https://repl.it/@ViniciusB1/LDA-AT1-ex20#main.c
 
 */
 

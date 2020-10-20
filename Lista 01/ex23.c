@@ -7,8 +7,7 @@ da
 João
 
 solucao em:
-https://repl.it/@ViniciusB1/LDA-L1-ex23#main.c
-
+https://repl.it/@ViniciusB1/LDA-AT1-ex23#main.c
 */
 
 /*
@@ -30,29 +29,7 @@ int main(void)
 	printf("Digite o nome completo: ");
 	gets(nome);
 
-	/*for (i=strlen(nome), aux=strlen(nome); i>=0; i--)
-	{
-		if (nome[i]!=' ')
-		{
-			//printf("\ni = %d ",i);
-			//printf("caractere asc2 %d ", nome[i]);
-			//printf("aux %d\n",aux);
-		}
-		else
-		{
-			//puts("entrou no else");
-			j=i+1;
-			while (j!=aux)
-			{
-				printf("%c", nome[j]);
-				j+=1;
-			}
-			puts("");
-			aux=i;
-		}
-		
-	}*/
-
+	//imprime nomes após (space)
 	for (i=strlen(nome), aux=strlen(nome); i>=0; i--)
 	{
 		if (nome[i]==' ')
@@ -65,7 +42,7 @@ int main(void)
 				j+=1;
 			}
 			puts("");
-			aux=i;
+			aux=i;//marca proxima exibicao para finalizar no espaco encontrado.
 		}
 		
 	}

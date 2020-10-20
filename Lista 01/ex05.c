@@ -2,7 +2,7 @@
 5.	Ler a altura e a base de um triângulo e calcular sua área. A fórmula de área de um triângulo é A = (base*altura)/2.
 
 solucao em:
-https://repl.it/@ViniciusB1/LDA-L1-ex05#main.c
+https://repl.it/@ViniciusB1/LDA-AT1-ex05#main.c
 */
 
 /*

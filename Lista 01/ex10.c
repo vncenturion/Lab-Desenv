@@ -11,7 +11,7 @@ O programa deve fornecer uma saída do tipo:
 Nadador de idade “idade” é da categoria “categoria”
 
 solucao em:
-https://repl.it/@ViniciusB1/LDA-L1-ex10
+https://repl.it/@ViniciusB1/LDA-AT1-ex10
 */
 
 /*

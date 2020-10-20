@@ -13,7 +13,7 @@ b) Pergunte ao usuário qual o tamanho do quadrado que ele quer que seja desenha
 
 
 solucao em:
-https://repl.it/@ViniciusB1/LDA-L1-ex15#main.c
+https://repl.it/@ViniciusB1/LDA-AT1-ex15#main.c
 */
 
 /*

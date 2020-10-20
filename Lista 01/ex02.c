@@ -5,7 +5,7 @@ b) exiba como inteiro (%d).
 c) exiba como hexadecimal (%x).
 
 solucao em:
-https://repl.it/@ViniciusB1/LDA-L1-ex02#main.c
+https://repl.it/@ViniciusB1/LDA-AT1-ex02#main.c
 */
 
 /*

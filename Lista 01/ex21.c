@@ -2,7 +2,7 @@
 21.	Converter um texto para maiúsculo, de depois para minúsculo. Utilize as funções toupper, e tolower. 
 
 solucao em:
-https://repl.it/@ViniciusB1/LDA-L1-ex21#main.c
+https://repl.it/@ViniciusB1/LDA-AT1-ex21#main.c
 
 */
 

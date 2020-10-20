@@ -2,7 +2,7 @@
 6.	Ler um número e diga se eles está contido no intervalo entre 10 e 15, onde 10 e 15 também pertencem ao intervalo.
 
 solucao em:
-https://repl.it/@ViniciusB1/LDA-L1-ex06#main.c
+https://repl.it/@ViniciusB1/LDA-AT1-ex06#main.c
 */
 
 /*

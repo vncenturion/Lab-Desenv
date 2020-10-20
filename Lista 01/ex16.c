@@ -2,7 +2,7 @@
 16.	Leia um número inteiro e diga se ele é um número primo ou não.
 
 solucao em:
-https://repl.it/@ViniciusB1/LDA-L1-ex16#main.c
+https://repl.it/@ViniciusB1/LDA-AT1-ex16#main.c
 */
 
 /*

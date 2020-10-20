@@ -2,7 +2,7 @@
 7.	Para ler um número inteiro e dizer se ele é impar ou par.
 
 solucao em:
-https://repl.it/@ViniciusB1/LDA-L1-ex07#main.c
+https://repl.it/@ViniciusB1/LDA-AT1-ex07#main.c
 */
 
 /*

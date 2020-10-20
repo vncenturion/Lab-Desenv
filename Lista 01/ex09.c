@@ -7,7 +7,7 @@ Ler os dados: o ano de nascimento do empregado e o ano de seu ingresso na compan
 Obs.: Utilize como ano atual o ano de 2011.
 
 solucao em:
-https://repl.it/@ViniciusB1/LDA-L1-ex09#main.c
+https://repl.it/@ViniciusB1/LDA-AT1-ex09#main.c
 */
 
 /*

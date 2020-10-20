@@ -2,7 +2,7 @@
 8.	Escreva um algoritmo que leia 3 números e diga qual é o menor entre os três.
 
 solucao em:
-https://repl.it/@ViniciusB1/LDA-L1-ex08#main.c
+https://repl.it/@ViniciusB1/LDA-AT1-ex08#main.c
 */
 
 /*

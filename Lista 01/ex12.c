@@ -4,7 +4,7 @@ a) Faça o que a professora pediu utilizando a estrutura for.
 b) Faça o que a professora pediu utilizando a estrutura while.
 
 solucao em:
-https://repl.it/@ViniciusB1/LDA-L1-ex12#main.c
+https://repl.it/@ViniciusB1/LDA-AT1-ex12#main.c
 */
 
 /*

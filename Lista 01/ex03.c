@@ -2,7 +2,7 @@
 3.	Ler duas notas e exibir a média aritmética.
 
 solucao em:
-https://repl.it/@ViniciusB1/LDA-L1-ex03#main.c
+https://repl.it/@ViniciusB1/LDA-AT1-ex03#main.c
 */
 
 /*

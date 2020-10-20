@@ -8,7 +8,7 @@ Cavalcanti
 
 
 solucao em:
-https://repl.it/@ViniciusB1/LDA-L1-ex22
+https://repl.it/@ViniciusB1/LDA-AT1-ex22
 
 */
 

@@ -12,9 +12,16 @@ https://repl.it/@ViniciusB1/LDA-AT1-ex23#main.c
 
 /*
 planejamento:
-
-
-
+declarar string pre dimensionada para 100 caracteres e inicializada com '\0';
+declara variaveis int j, i, e aux para controle de estruturas de repeticao;
+solicita nome completo ao usuario;
+leitura do nome completo por gets associado a string;
+estrutura de repeticao inicializando i na posição do tamanho da string (marcado por strlen. requer biblioteca string.h) fazendo decremento da variavel de controle 'i' ate que atinja a posicao 0;
+	estrutura condicional se para buscar o caractere ' ' (space);
+		se encontrar, imprime todos os caracteres posteriores atraves de estrutura de repeticao controlada pela variavel j que recebe como inicializacao a posicao seguinte a varivel i que contem o space e finalização na variavel aux;
+		apos a estrutura de repeticao para imprimir, a variavel auxiliar aux recebe a posicao i que marcava o caractere space;
+estrutura de repeticao para imprimir a primeira parte do nome inicializada por i=0; e finalizando com a ultima variavel aux;
+	imprime caractereres um a um até chergar na variavel aux que corresponde ao space.
 */
 
 

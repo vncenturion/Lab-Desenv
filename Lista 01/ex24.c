@@ -9,7 +9,7 @@ Ou seja, onde aparece um 'Z' no string de entrada, aparecerá um 'P' na saída; 
 Por exemplo, o string "Parabens a voce" é codificado para "Zitibols i veco". Ao se aplicar duas vezes a transformação, obtém-se o mesmo string, ou seja, a codificação de "Zitibols i veco" é "Parabens a voce".
 
 solucao em:
-
+https://repl.it/@ViniciusB1/LDA-AT1-ex24#main.c
 
 */
 
